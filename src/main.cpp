@@ -27,8 +27,8 @@ bool trangthai = false;
 int nutTruocDo = HIGH;
 
 // ---------------- CẤU HÌNH WIFI & URL ----------------
-const char* ssid = "CaThy 18B2";
-const char* pass = "Cathyvo79";
+const char* ssid = "SSDI";
+const char* pass = "PASSWORD";
 
 // ---------------- I2S AUDIO (MAX98357A) ----------------
 #define I2S_BCLK   27   // Bit clock      -> GPIO27
